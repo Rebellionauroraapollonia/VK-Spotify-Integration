@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "Integrate Spotify current playing song to VK status",
   "main": "./src/index.js",
-  "author": "Rebellionaurora'apollonia",
+  "author": "aka1tzrovee",
   "license": "MIT",
   "scripts": {
     "get-refresh-token": "node ./src/get-refresh-token.js",
