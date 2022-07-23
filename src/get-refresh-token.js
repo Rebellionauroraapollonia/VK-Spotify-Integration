@@ -35,7 +35,7 @@ async function printRefreshToken() {
 	console.log(`===> ${response['refresh_token']}`);
 	console.log('');
 	console.log('Скопируй и вставь его в .env файл в \'SPOTIFY_REFRESH_TOKEN\', после =');
-	console.log("Made by Rebellionaurora'apollonia#5644");
+	console.log("Made by aka1tzrovee#5644");
 	process.exit(0);
 }
 
